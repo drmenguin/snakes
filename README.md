@@ -2,7 +2,7 @@
 
 This game is a programming assignment for [CPS2003: Systems Programming](http://www.um.edu.mt/ict/studyunit/CPS2003), a course forming part of my B.Sc. in Mathematics and Computer Science. 
 
-![Screenshot 1](1.png) ![Screenshot 2](2.png)
+![Screenshot](2.png)
 
 ## Requirements
 This program uses [Berkeley sockets](https://en.wikipedia.org/wiki/Berkeley_sockets) together with other Unix/Linux kernel data structures, and therefore only functions properly on terminals in a Unix environment. Check whether you have `ncurses` installed, by running
