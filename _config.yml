@@ -1,2 +1,12 @@
 theme: jekyll-theme-minimal
 show_downloads: true
+navbar-links:
+  Author's Personal Website: "http://drmenguin.com" 
+author:
+  name: Luke Collins
+  email: "luke@maths.com.mt"
+  facebook: drmenguin  # eg. daattali
+  github: drmenguin # eg. daattali
+  reddit: drmenguin    # eg. daattali
+  
+ url-pretty: "drmenguin.com" 
