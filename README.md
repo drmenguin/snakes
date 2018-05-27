@@ -1,4 +1,6 @@
 # Multiplayer Snakes Game
+[![Build Status](https://travis-ci.org/drmenguin/snakes.svg?branch=master)](https://travis-ci.org/drmenguin/snakes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This game is a programming assignment for [CPS2003: Systems Programming](http://www.um.edu.mt/ict/studyunit/CPS2003), a course forming part of my B.Sc. in Mathematics and Computer Science. 
 
