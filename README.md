@@ -7,7 +7,7 @@ This game is a programming assignment for [CPS2003: Systems Programming](http://
 <p align="center"> <img src="2.png" alt="Screenshot"> </p>
 
 ## Requirements
-This program uses [Berkeley sockets](https://en.wikipedia.org/wiki/Berkeley_sockets) together with other Unix/Linux kernel data structures, and therefore only functions properly on terminals in a Unix environment. Check whether you have `ncurses` installed, by running
+This program uses [Berkeley sockets](https://en.wikipedia.org/wiki/Berkeley_sockets) together with other Unix/Linux kernel data structures, and therefore only functions properly on terminals in a Unix environment. On Ubuntu, you can check whether you have `ncurses` installed, by running
 
 ```
 apt -qq list ncurses-bin ncurses-base
